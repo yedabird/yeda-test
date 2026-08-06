@@ -6,6 +6,6 @@
 **Bold**
 *italic*
 
-[Premium Leage](https://www.premiumleague.com)
+[Premier Leage](https://www.premierleague.com)
 
 this is test for yeda
